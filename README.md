@@ -1,0 +1,2 @@
+# SmartInterviews_Basics_Assignment_HackerRank
+Smart Interview Basic Programs assignment on HackerRank Platform
